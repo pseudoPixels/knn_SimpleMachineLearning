@@ -1,5 +1,5 @@
 #Author : Golam Mostaeen | gom766 | golammostaeen@gmail.com
-#Runs simple knn and visualizes the result.
+
 
 #ALL MY IMPORTS
 import pandas as pd
